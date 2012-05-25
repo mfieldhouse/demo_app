@@ -2,7 +2,7 @@
 
 From Michael Hartl's Rails video tutorial series.
 
-Basic web app demonstrating the relationship between users, microposts and basic post length validation 
+Basic web app demonstrating the relationship between users and microposts with post length validation 
 
 **Topics covered so far:**
 
