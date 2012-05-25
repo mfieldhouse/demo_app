@@ -1,6 +1,8 @@
 # Ruby on Rails Screencast Tutorial Demo App
 
-From Michael Hartl's Rails video tutorial series
+From Michael Hartl's Rails video tutorial series.
+
+Basic web app demonstrating the relationship between users, microposts and basic post length validation 
 
 **Topics covered so far:**
 
